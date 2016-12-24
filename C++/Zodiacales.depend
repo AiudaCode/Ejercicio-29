@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1476223996 source:c:\users\omarm\dropbox\codeblocks proyects\zodiacales\main.cpp
+	<iostream>
+	"Calcular.h"
+
+1476244636 c:\users\omarm\dropbox\codeblocks proyects\zodiacales\include\calcular.h
+
+1476244653 source:c:\users\omarm\dropbox\codeblocks proyects\zodiacales\src\calcular.cpp
+	"Calcular.h"
+
